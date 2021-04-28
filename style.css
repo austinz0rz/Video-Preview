@@ -1,0 +1,8 @@
+.videoPreview {
+    display: flex;
+    width: 960;
+    height: 600px;
+    justify-content: center;
+    align-content: center;
+    margin-top: 300px;
+}
